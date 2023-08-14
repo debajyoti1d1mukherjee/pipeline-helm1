@@ -3,7 +3,7 @@ entries:
   debu-test-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-14T08:14:16.457069021-05:00"
+    created: "2023-08-14T08:33:34.599396135-05:00"
     description: A Helm chart for Kubernetes
     digest: b9d578bd3f36dd9e05346dc10eb3cd4ebd473f166eff4542e3b3d1e7857d6869
     name: debu-test-helm
@@ -11,4 +11,15 @@ entries:
     urls:
     - debu-test-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-14T08:14:16.456384354-05:00"
+  debu-test-helm2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-14T08:33:34.599902098-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 6a6d3c0950ba0de89ba8aa7565bdb588cf718d8ab77272b80636c3708189c7f0
+    name: debu-test-helm2
+    type: application
+    urls:
+    - debu-test-helm2-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-14T08:33:34.5988299-05:00"
