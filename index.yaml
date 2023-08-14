@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2023-08-14T08:09:27.531953944-05:00"
+entries:
+  debu-test-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-14T08:14:16.457069021-05:00"
+    description: A Helm chart for Kubernetes
+    digest: b9d578bd3f36dd9e05346dc10eb3cd4ebd473f166eff4542e3b3d1e7857d6869
+    name: debu-test-helm
+    type: application
+    urls:
+    - debu-test-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-14T08:14:16.456384354-05:00"
